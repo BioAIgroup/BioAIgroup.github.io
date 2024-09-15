@@ -1,15 +1,24 @@
 ---
-title: "Allan Lab - Research"
+title: "BioAI Research Group - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "BioAI Research Group -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Updating soon -- stay put. (Aug 11 2023)
+Our overarching goal is to use computational biology approaches to gain a better understanding of biological systems. One focus is to develop deep neural network architectures to analyse high-throughput cancer data and push forward the area of precision medicine. We are interested in integrative approaches that combine high-throughput data (genomics, transcriptomics, proteomics, metabolomics) on particular systems with existing biological knowledge from knowledge-bases such as biological network data (KEGG, Reactome). We are also investigating the use of communicative multi-agent systems (MAS) to facilitate a flexible and goal-driven approach to integrating bioinformatics data and methods.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+Here are some themes and techniques that we currently work on:
+
+**MCbiclust for pattern discovery in diverse biological archives** MCbiclust ... 
 
 
+
+<!-- Need a running picture for different pages ... -->
+<!-- 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"} -->
+
+
+### ... and more.
