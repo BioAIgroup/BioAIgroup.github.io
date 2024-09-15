@@ -1,17 +1,20 @@
 - name: Kevin Bryson
   photo: kevin_and_dogs.jpg
-  info: Senior Lecturer in Bioinformatics & AI, started April 2021
+  info: Senior Lecturer in Bioinformatics & AI
+  started: April 2021
   email: kevin.bryson@glasgow.ac.uk
-  number_educ: 2
+  number_educ: 0
   education1: PhD Physics, University of York
   education2: BSc Mathematics and Computer Science, Heriot-Watt University
 
+- name: Zhiwei (Will) Zheng
+  photo: zhiwei_zheng.jpg
+  info: PhD student studying application of deep learning to cancer bioinformatics
+  started: September 2023.
+
 
 - name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  photo: anonymous_avatars.jpg
+  info: See <a href="http://BioAIgroup.github.io/vacancies">vacancies</a> for more info.
+  started: 
   email: kevin.bryson@glasgow.ac.uk
-  number_educ: 0
-  education1:
-  education2:
-  education3:

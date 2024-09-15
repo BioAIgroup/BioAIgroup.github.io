@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+** We are always looking for enthusiastic PhD students to join the group ** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 
 {% assign number_printed = 0 %}
@@ -23,7 +23,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} </i><br>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -74,7 +74,7 @@ permalink: /team/
 
 
 
-## Master and Bachelor Students
+<!-- ## Master and Bachelor Students -->
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -128,7 +128,7 @@ permalink: /team/
 {% endif %}
 
 
-## Alumni
+<!-- ## Alumni -->
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
