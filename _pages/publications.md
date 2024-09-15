@@ -32,7 +32,8 @@ permalink: /publications/
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
-  
+  </div>
+</div>  
  
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -51,15 +52,11 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
+</div>
+
+
 
 ## Full List of publications
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
 
 
 
