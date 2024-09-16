@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+# Open Positions
 
 
 We are always looking for enthusiastic PhD students to join the group. <br />

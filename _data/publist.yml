@@ -12,11 +12,13 @@
 
 - title: "MCbiclust: A Novel Algorithm to Discover Large-Scale Functionally Related Gene Sets from Massive Transcriptomics Data Collections"
   image: Multistate_gene_clusters_1500.png
-  description: MCbiclust does biclustering to discover patterns in large biological data archives.
+  description: MCbiclust is a biclustering approach that can discover hidden patterns contained in large biological archives of transcriptomics data.
+  description_long: MCbiclust is a biclustering approach that can discover hidden patterns contained in large biological archives of transcriptomics data.
   authors: Bentham, Robert B., Kevin Bryson, and Gyorgy Szabadkai
   link:
     url: https://doi.org/10.1093/nar/gkx590
     display: Nucleic Acids Research 45, no. 15, 8712–30.
   highlight: 1
+  transcriptomics: 1
 
 

@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+## Group Highlights
 
-**At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
+**Within [Research](/research) you can find these highlighted papers under research areas. At the end of this page, you can find the [Full List of Publications](#full-list-of-publications) of the group.**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -50,13 +50,13 @@ permalink: /publications/
  
 {% endif %}
 
-<p> &nbsp; </p>
 
 </div>
 
+<p> &nbsp; </p>
 
 
-## Full List of publications
+## Full List of Publications
 
 
 
