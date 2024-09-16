@@ -10,10 +10,13 @@ permalink: /research/
 
 Our overarching goal is to use computational biology approaches to gain a better understanding of biological systems. One focus is to develop deep neural network architectures to analyse high-throughput cancer data and push forward the area of precision medicine. We are interested in integrative approaches that combine high-throughput data (genomics, transcriptomics, proteomics, metabolomics) on particular systems with existing biological knowledge from knowledge-bases such as biological network data (KEGG, Reactome). We are also investigating the use of multi-agent systems (MAS) to facilitate flexible and goal-driven analysis to integrate bioinformatics data and methods.
 
-Here are some themes and techniques that we currently work on: [Genomics](#genomics), [Transcriptomics](#transcriptomics), [Proteomics](#proteomics), [Metabolomics](#metabolomics), [Systems Biology Integration](#systems-biology-integration)
+Here are some themes and techniques that we currently work on: [Machine Learning and AI](#machine-learning-and-ai), [Cancer Precision Medicine](#cancer-precision-medicine), [Genomics / Genetics](#genomics--genetics), [Transcriptomics](#transcriptomics), [Proteomics](#proteomics), [Metabolomics](#metabolomics), [Systems Biology Integration](#systems-biology-integration)
 
+## Machine Learning and AI
 
-## Genomics
+## Cancer Precision Medicine
+
+## Genomics / Genetics
 
 ## Transcriptomics
 
@@ -43,7 +46,6 @@ Here are some themes and techniques that we currently work on: [Genomics](#genom
 {% endfor %}
 
 </div>
-
 
 
 ## Proteomics
