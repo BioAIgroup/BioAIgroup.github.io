@@ -7,45 +7,48 @@
   link:
     url: "https://doi.org/10.1007/978-1-4939-9027-6_24"
     display: "In <i>Cancer Metabolism</i>, edited by Majda Haznadar, 1928:469–78. Methods in Molecular Biology. New York, NY: Springer New York, 2019. "
-  highlight: 1
+  highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
-  transcriptomics: 1
+  transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "MCbiclust: A Novel Algorithm to Discover Large-Scale Functionally Related Gene Sets from Massive Transcriptomics Data Collections"
-  image: XXX.png
-  description: "YYY"
+  image: mcbiclust_NAR.png
+  description: "MCbiclust is a novel method that can extract patterns from massive transcriptomics data collections. We show that it can effectively stratify patients based on their intrinsic gene expression signatures."
   authors: "Bentham, Robert B., Kevin Bryson, and Gyorgy Szabadkai. "
   link:
     url: "https://doi.org/10.1093/nar/gkx590"
     display: "<i>Nucleic Acids Research</i> 45, no. 15 (6 September 2017): 8712–30. "
-  highlight: 0
-  ml_ai: 0
-  cancer_precision_medicine: 0
+  highlight: 1
+  ml_ai: 1
+  precision_medicine: 1
   genomics: 0
-  transcriptomics: 0
+  transcriptomics: 1
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "AGMIAL: Implementing an Annotation Strategy for Prokaryote Genomes as a Distributed System"
-  image: XXX.png
-  description: "YYY"
+  image: agmial_NAR.png
+  description: "This system took the abstract ideas of the GeneWeaver multi-agent system and deployed it for genome annotation at INRA in France. A system was developed that allowed different labs at INRA to collaboratively annotate related species of lactobacillus (lactis, debrukei and sakei). Each lab had control over its own annotation processes while the systems collaborated on sharing annotation when relevant."
   authors: "Bryson, K., V. Loux, R. Bossy, P. Nicolas, S. Chaillou, M. van de Guchte, S. Penaud, et al. "
   link:
     url: "https://doi.org/10.1093/nar/gkl471"
     display: "<i>Nucleic Acids Research</i> 34, no. 12 (1 June 2006): 3533–45. "
-  highlight: 0
+  highlight: 1
   ml_ai: 0
-  cancer_precision_medicine: 0
-  genomics: 0
+  precision_medicine: 0
+  genomics: 1
   transcriptomics: 0
   proteomics: 0
-  metabolomics: 0
+  metabolomics: 1
+  sysbio_integration: 1
 
 
 - title: "Agent Interaction for Bioinformatics Data Management"
@@ -57,27 +60,29 @@
     display: "<i>Applied Artificial Intelligence</i> 15, no. 10 (1 November 2001): 917–47. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Applying Agents to Bioinformatics in GeneWeaver"
-  image: XXX.png
-  description: "YYY"
+  image: geneweaver_CIA2000.png
+  description: "Seminal paper outlining the GeneWeaver multi-agent system (MAS) for cooperative genome annotation."
   authors: "Bryson, K., M. Luck, M. Joy, and D. T. Jones. "
   link:
     url: "https://doi.org/10.1007/978-3-540-45012-2_7"
     display: "In <i>Cooperative Information Agents IV - The Future of Information Agents in Cyberspace</i>, edited by Matthias Klusch and Larry Kerschberg, 60–71. Berlin, Heidelberg: Springer, 2000. "
-  highlight: 0
-  ml_ai: 0
-  cancer_precision_medicine: 0
-  genomics: 0
+  highlight: 1
+  ml_ai: 1
+  precision_medicine: 0
+  genomics: 1
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 1
 
 
 - title: "GeneWeaver : A Novel Genome Annotation System Based on Software Agents"
@@ -89,11 +94,12 @@
     display: "Heidelberg, Germany, 1999. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "From GeneWeaver to Agmial"
@@ -105,11 +111,12 @@
     display: "Bologna, Italy, 2002. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Computer-Assisted Protein Domain Boundary Prediction Using the Dom-Pred Server"
@@ -121,11 +128,12 @@
     display: "<i>Current Protein and Peptide Science</i> 8, no. 2 (1 April 2007): 181–88. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Molecular Dynamics of Putrescine"
@@ -137,11 +145,12 @@
     display: "<i>Journal of the Chemical Society, Faraday Transactions</i> 92, no. 6 (1 January 1996): 913–19. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Protein Structure Prediction Servers at University College London"
@@ -153,11 +162,12 @@
     display: "<i>Nucleic Acids Research</i> 33, no. suppl_2 (1 July 2005): W36–38. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Binding Sites of the Polyamines Putrescine, Cadaverine, Spermidine and Spermine on A- and B-DNA Located by Simulated Annealing"
@@ -169,11 +179,12 @@
     display: "<i>Journal of Biomolecular Structure and Dynamics</i> 18, no. 3 (1 December 2000): 393–412. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Protein Annotation and Modelling Servers at University College London"
@@ -185,11 +196,12 @@
     display: "<i>Nucleic Acids Research</i> 38, no. suppl_2 (1 July 2010): W563–68. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Scalable Web Services for the PSIPRED Protein Analysis Workbench"
@@ -201,11 +213,12 @@
     display: "<i>Nucleic Acids Research</i> 41, no. W1 (1 July 2013): W349–57. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "The Role of Deep Learning in the Classification of Tumours of Fat"
@@ -217,11 +230,12 @@
     display: "In <i>JOURNAL OF PATHOLOGY</i>, 249:S20–S20. WILEY 111 RIVER ST, HOBOKEN 07030-5774, NJ USA, 2019. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Protein Function Prediction by Massive Integration of Evolutionary Analyses and Multiple Data Sources"
@@ -233,11 +247,12 @@
     display: "<i>BMC Bioinformatics</i> 14, no. 3 (28 February 2013): S1. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "A Meta-Analysis of Microarray Gene Expression in Mouse Stem Cells: Redefining Stemness"
@@ -249,11 +264,12 @@
     display: "<i>PLOS ONE</i> 3, no. 7 (16 July 2008): e2712. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Extending the Lineage Potential of Human Mesenchymal Stem Cells"
@@ -265,11 +281,12 @@
     display: "York, UK, 2006. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "A Platform for Location Based App Development for Citizen Science and Community Mapping"
@@ -281,11 +298,12 @@
     display: "In <i>Progress in Location-Based Services</i>, edited by Jukka M. Krisp, 71–90. Berlin, Heidelberg: Springer, 2013. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "CAFASP-1: Critical Assessment of Fully Automated Structure Prediction Methods"
@@ -297,27 +315,29 @@
     display: "<i>Proteins: Structure, Function, and Bioinformatics</i> 37, no. S3 (1999): 209–17. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "The Complete Genome Sequence of Lactobacillus Bulgaricus Reveals Extensive and Ongoing Reductive Evolution"
-  image: XXX.png
-  description: "YYY"
+  image: bulgaricus_PNAS.png
+  description: "Thousands of years ago, humans accidentally introduced Lactobacillus Bulgaricus to milk where it produced yogurt. This paper used the AGMIAL genome annotation system to reveal the novel finding that this bacteria has been rapidly evolving over these thousands of years to move from its original plant host to the richer environment of milk, for instance, loosing genes for cellulose processing amongst other functions."
   authors: "Guchte, M. van de, S. Penaud, C. Grimaldi, V. Barbe, K. Bryson, P. Nicolas, C. Robert, et al. "
   link:
     url: "https://doi.org/10.1073/pnas.0603024103"
     display: "<i>Proceedings of the National Academy of Sciences</i> 103, no. 24 (13 June 2006): 9274–79. "
-  highlight: 0
+  highlight: 1
   ml_ai: 0
-  cancer_precision_medicine: 0
-  genomics: 0
+  precision_medicine: 0
+  genomics: 1
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "M24 - Epigenetic Differences In Monozygotic Twins Discordant For Major Depressive Disorder"
@@ -329,11 +349,12 @@
     display: "<i>European Neuropsychopharmacology</i>, Abstracts of the XXIV World Congress of Psychiatric Genetics (WCPG), 30 October - 4 November 2016, Jerusalem, Israel, 27 (1 January 2017): S382–83. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Detecting Gene Duplications in the Human Lineage"
@@ -345,11 +366,12 @@
     display: "<i>Annals of Human Genetics</i> 74, no. 6 (2010): 555–65. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "An Expanded Evaluation of Protein Function Prediction Methods Shows an Improvement in Accuracy"
@@ -361,11 +383,12 @@
     display: "<i>Genome Biology</i> 17, no. 1 (December 2016): 184. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Prediction of Protein-Protein and Protein-Ligand Interactions from Protein Structures"
@@ -377,11 +400,12 @@
     display: "In <i>FEBS JOURNAL</i>, 272:397–98. Budapest, Hungary, 2005. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Prediction of Novel and Analogous Folds Using Fragment Assembly and Fold Recognition"
@@ -393,11 +417,12 @@
     display: "<i>Proteins: Structure, Function, and Bioinformatics</i> 61, no. S7 (2005): 143–51. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Successful Recognition of Protein Folds Using Threading Methods Biased by Sequence Similarity and Predicted Secondary Structure"
@@ -409,11 +434,12 @@
     display: "<i>Proteins: Structure, Function, and Bioinformatics</i> 37, no. S3 (1999): 104–11. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Summary of the DREAM8 Parameter Estimation Challenge: Toward Parameter Identification for Whole-Cell Models"
@@ -425,27 +451,29 @@
     display: "<i>PLOS Computational Biology</i> 11, no. 5 (28 May 2015): e1004096. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Sequetyping: Serotyping Streptococcus Pneumoniae by a Single PCR Sequencing Strategy"
-  image: XXX.png
-  description: "YYY"
+  image: serotyping_streptococcus.png
+  description: "A large-scale genomic analsis, based on decision trees, using PrimerFinder was used to identify the most informative PCR primer pairs for identifying different serotypes of streptococcus pneumoniae. This was experimentally validated in the lab and provides a cheap and easy way to monitor the spread of different serotypes across Tanzania and other countries."
   authors: "Leung, Marcus H., Kevin Bryson, Kathrin Freystatter, Bruno Pichon, Giles Edwards, Bambos M. Charalambous, and Stephen H. Gillespie. "
   link:
     url: "https://doi.org/10.1128/jcm.06384-11"
     display: "<i>Journal of Clinical Microbiology</i> 50, no. 7 (21 December 2020): 2419–27. "
-  highlight: 0
+  highlight: 1
   ml_ai: 0
-  cancer_precision_medicine: 0
-  genomics: 0
+  precision_medicine: 1
+  genomics: 1
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Epigenetic Differences in Monozygotic Twins Discordant for Major Depressive Disorder"
@@ -457,11 +485,12 @@
     display: "<i>Translational Psychiatry</i> 6, no. 6 (June 2016): e839–e839. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Highly Polygenic Architecture of Antidepressant Treatment Response: Comparative Analysis of SSRI and NRI Treatment in an Animal Model of Depression"
@@ -473,11 +502,12 @@
     display: "<i>American Journal of Medical Genetics Part B: Neuropsychiatric Genetics</i> 174, no. 3 (April 2017): 235–50. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "TopNEXt: Automatic DDA Exclusion Framework for Multi-Sample Mass Spectrometry Experiments"
@@ -489,11 +519,12 @@
     display: "<i>Bioinformatics</i> 39, no. 7 (1 July 2023): btad406. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "The PSIPRED Protein Structure Prediction Server"
@@ -505,11 +536,12 @@
     display: "<i>Bioinformatics</i> 16, no. 4 (1 April 2000): 404–5. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "High Throughput Profile-Profile Based Fold Recognition for the Entire Human Proteome"
@@ -521,11 +553,12 @@
     display: "<i>BMC Bioinformatics</i> 7, no. 1 (7 June 2006): 288. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "The Genomic Threading Database: A Comprehensive Resource for Structural Annotations of the Genomes from Key Organisms"
@@ -537,11 +570,12 @@
     display: "<i>Nucleic Acids Research</i> 32, no. suppl_1 (1 January 2004): D196–99. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "SwiftLink: Parallel MCMC Linkage Analysis Using Multicore CPU and GPU"
@@ -553,11 +587,12 @@
     display: "<i>Bioinformatics</i> 29, no. 4 (15 February 2013): 413–19. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Multistate Gene Cluster Switches Determine the Adaptive Mitochondrial and Metabolic Landscape of Breast Cancer"
@@ -569,11 +604,12 @@
     display: "<i>Cancer Research</i> 84, no. 17 (4 September 2024): 2911–25. "
   highlight: 1
   ml_ai: 1
-  cancer_precision_medicine: 1
+  precision_medicine: 1
   genomics: 0
   transcriptomics: 1
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "LDEncoder: Reference Deep Learning-Based Feature Detector for Transfer Learning in the Field of Epigenomics"
@@ -585,11 +621,12 @@
     display: "In <i>Proceedings of the 12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics</i>, 1. BCB ’21. New York, NY, USA: Association for Computing Machinery, 2021. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "GENIUS: A New HLA Match Prediction Tool from Anthony Nolan"
@@ -601,11 +638,12 @@
     display: "Accessed 15 September 2024. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "A Large-Scale Evaluation of Computational Protein Function Prediction"
@@ -617,11 +655,12 @@
     display: "<i>Nature Methods</i> 10, no. 3 (March 2013): 221–27. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Predicting Metal-Binding Site Residues in Low-Resolution Structural Models"
@@ -633,11 +672,12 @@
     display: "<i>Journal of Molecular Biology</i> 342, no. 1 (3 September 2004): 307–20. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Automatic Prediction of Functional Site Regions in Low-Resolution Protein Structures"
@@ -649,11 +689,12 @@
     display: "In <i>Proceedings. 2004 IEEE Computational Systems Bioinformatics Conference, 2004. CSB 2004.</i>, 702–3, 2004. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Adversarial Generation of Gene Expression Data"
@@ -665,11 +706,12 @@
     display: "<i>Bioinformatics</i> 38, no. 3 (12 January 2022): 730–37. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "Simulated-to-Real Benchmarking of Acquisition Methods in Untargeted Metabolomics"
@@ -681,11 +723,12 @@
     display: "<i>Frontiers in Molecular Biosciences</i> 10 (7 March 2023). "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "The DISOPRED Server for the Prediction of Protein Disorder"
@@ -697,11 +740,12 @@
     display: "<i>Bioinformatics</i> 20, no. 13 (1 September 2004): 2138–39. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "The Breast Cancer Oncogene IKKε Coordinates Mitochondrial Function and Serine Metabolism"
@@ -713,11 +757,12 @@
     display: "<i>EMBO Reports</i> 21, no. 9 (3 September 2020): e48260. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
 - title: "A Continuously Benchmarked and Crowdsourced Challenge for Rapid Development and Evaluation of Models to Predict COVID-19 Diagnosis and Hospitalization"
@@ -729,10 +774,11 @@
     display: "<i>JAMA Network Open</i> 4, no. 10 (11 October 2021): e2124946. "
   highlight: 0
   ml_ai: 0
-  cancer_precision_medicine: 0
+  precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
+  sysbio_integration: 0
 
 
