@@ -9,13 +9,14 @@ permalink: /publications/
 
 # Publications
 
-## Group Highlights
-
 **Within [Research](/research) you can find these highlighted papers under different research themes.**
 
 **At the end of this page, you can find the [Full List of Publications](#full-list-of-publications) of the research group.**
 
 **Up-to-date citation information about these papers can be found on [Google Scholar](https://scholar.google.co.uk/citations?user=m_OH6V8AAAAJ&hl=en).**
+
+
+## Group Highlights
 
 
 {% assign number_printed = 0 %}

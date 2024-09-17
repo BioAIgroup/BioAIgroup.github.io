@@ -12,8 +12,6 @@
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
-
-
   sysbio_integration: 0
 
 
@@ -31,8 +29,6 @@
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
-
-
   sysbio_integration: 0
 
 
@@ -41,7 +37,7 @@
   description: "YYY"
   authors: "Scott, Timothy A., Leonor M. Quintaneiro, Povilas Norvaisas, Prudence P. Lui, Matthew P. Wilson, Kit-Yi Leung, Lucia Herrera-Dominguez, Sonia Sudiwala, Alberto Pessia, and Peter T. Clayton. "
   link:
-    url: "https://www.cell.com/fulltext/S0092-8674(17)30369-0"></a>."
+    url: "https://www.cell.com/fulltext/S0092-8674(17)30369-0"
     display: "<i>Cell</i> 169, no. 3 (2017): 442–56. "
   highlight: 0
   ml_ai: 0
@@ -50,8 +46,6 @@
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
-
-
   sysbio_integration: 0
 
 

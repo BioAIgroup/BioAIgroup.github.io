@@ -58,5 +58,5 @@ with open(BASE_DATA_DIR + "pub_list.html") as file_in:
                 file_out.write(f'  genomics: 0\n')
                 file_out.write(f'  transcriptomics: 0\n')
                 file_out.write(f'  proteomics: 0\n')
-                file_out.write(f'  metabolomics: 0\n\n\n')
+                file_out.write(f'  metabolomics: 0\n')
                 file_out.write(f'  sysbio_integration: 0\n\n\n')

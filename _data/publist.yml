@@ -477,7 +477,7 @@
 
 
 - title: "Epigenetic Differences in Monozygotic Twins Discordant for Major Depressive Disorder"
-  image: epigenetics_depression_translational_psychiatry.png
+  image: epigenetics_depression_gene_network.png
   description: "This applies machine learning to epigenetic data from identical twins where one has major depressive disorder and the other does not. This identifies biological networks that potentially involved in the diseased mechanism."
   authors: "Malki, K., E. Koritskaya, F. Harris, K. Bryson, M. Herbster, and M. G. Tosto. "
   link:
@@ -602,7 +602,7 @@
   link:
     url: "https://doi.org/10.1093/bioinformatics/bts704"
     display: "<i>Bioinformatics</i> 29, no. 4 (15 February 2013): 413–19. "
-  highlight: 0
+  highlight: 1
   ml_ai: 1
   precision_medicine: 1
   genomics: 1
@@ -647,12 +647,12 @@
 
 
 - title: "GENIUS: A New HLA Match Prediction Tool from Anthony Nolan"
-  image: HLA.svg
+  image: HLA.png
   description: "A new probabilistic matching algorithm was developed which was used by the Anthony Nolan Trust for bone marrow transplant matching."
   authors: "Patel, Z, Patel, ZI, Robinson, J, Robertson, DP, Stein, JE, Chenery, P, Latham, K, Evseeva, I, Bryson, K, and Marsh, SGE. "
   link:
     url: "https://onlinelibrary.wiley.com/doi/10.1111/iji.12142"
-    display: "Accessed 15 September 2024. "
+    display: "25th British Society for Histocompatibility and Immunogenetics Conference"
   highlight: 1
   ml_ai: 1
   precision_medicine: 1
@@ -704,14 +704,14 @@
   link:
     url: "https://www.cell.com/fulltext/S0092-8674(17)30369-0"
     display: "<i>Cell</i> 169, no. 3 (2017): 442–56. "
-  highlight: 0
+  highlight: 1
   ml_ai: 0
   precision_medicine: 1
-  genomics: 0
-  transcriptomics: 0
-  proteomics: 0
-  metabolomics: 0
-  sysbio_integration: 0
+  genomics: 1
+  transcriptomics: 1
+  proteomics: 1
+  metabolomics: 1
+  sysbio_integration: 1
 
 
 - title: "Predicting Metal-Binding Site Residues in Low-Resolution Structural Models"
@@ -767,7 +767,7 @@
 
 - title: "Simulated-to-Real Benchmarking of Acquisition Methods in Untargeted Metabolomics"
   image: ViMMS_frontiers.png
-  description: "A significant finding of this paper is the application of the ViMMS "digital twin" to do optimization of mass spectrometry instruments that would be expensive, difficult or impossible to do on real instruments."
+  description: "A significant finding of this paper is the application of the ViMMS 'digital twin' to do optimization of mass spectrometry instruments that would be expensive, difficult or impossible to do on real instruments."
   authors: "Wandy, Joe, Ross McBride, Simon Rogers, Nikolaos Terzis, Stefan Weidt, Justin J. J. van der Hooft, Kevin Bryson, Rónán Daly, and Vinny Davies. "
   link:
     url: "https://doi.org/10.3389/fmolb.2023.1130781"
