@@ -1,0 +1,57 @@
+- title: "What Are the Baselines for Protein Fold Recognition?"
+  image: XXX.png
+  description: "YYY"
+  authors: "McGuffin, Liam J., Kevin Bryson, and David T. Jones. "
+  link:
+    url: "https://doi.org/10.1093/bioinformatics/17.1.63"
+    display: "<i>Bioinformatics</i> 17, no. 1 (1 January 2001): 63–72. "
+  highlight: 0
+  ml_ai: 0
+  precision_medicine: 0
+  genomics: 0
+  transcriptomics: 0
+  proteomics: 0
+  metabolomics: 0
+
+
+  sysbio_integration: 0
+
+
+- title: "Host-Microbe-Drug-Nutrient Screen Identifies Bacterial Effectors of Metformin Therapy"
+  image: XXX.png
+  description: "YYY"
+  authors: "Pryor, Rosina, Povilas Norvaisas, Georgios Marinos, Lena Best, Louise B. Thingholm, Leonor M. Quintaneiro, Wouter De Haes, Daniela Esser, Silvio Waschina, and Celia Lujan. "
+  link:
+    url: "https://www.cell.com/cell/fulltext/S0092-8674(19)30891-8?fbclid=IwAR130nMgBwOSwPGyXC7aNpK7ikcauwfToccAgt1STj7eLDOPmJv-Ue3eqNU"
+    display: "<i>Cell</i> 178, no. 6 (2019): 1299–1312. "
+  highlight: 0
+  ml_ai: 0
+  precision_medicine: 0
+  genomics: 0
+  transcriptomics: 0
+  proteomics: 0
+  metabolomics: 0
+
+
+  sysbio_integration: 0
+
+
+- title: "Host-Microbe Co-Metabolism Dictates Cancer Drug Efficacy in C. Elegans"
+  image: XXX.png
+  description: "YYY"
+  authors: "Scott, Timothy A., Leonor M. Quintaneiro, Povilas Norvaisas, Prudence P. Lui, Matthew P. Wilson, Kit-Yi Leung, Lucia Herrera-Dominguez, Sonia Sudiwala, Alberto Pessia, and Peter T. Clayton. "
+  link:
+    url: "https://www.cell.com/fulltext/S0092-8674(17)30369-0"></a>."
+    display: "<i>Cell</i> 169, no. 3 (2017): 442–56. "
+  highlight: 0
+  ml_ai: 0
+  precision_medicine: 0
+  genomics: 0
+  transcriptomics: 0
+  proteomics: 0
+  metabolomics: 0
+
+
+  sysbio_integration: 0
+
+

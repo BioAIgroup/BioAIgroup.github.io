@@ -477,16 +477,16 @@
 
 
 - title: "Epigenetic Differences in Monozygotic Twins Discordant for Major Depressive Disorder"
-  image: XXX.png
-  description: "YYY"
+  image: epigenetics_depression_translational_psychiatry.png
+  description: "This applies machine learning to epigenetic data from identical twins where one has major depressive disorder and the other does not. This identifies biological networks that potentially involved in the diseased mechanism."
   authors: "Malki, K., E. Koritskaya, F. Harris, K. Bryson, M. Herbster, and M. G. Tosto. "
   link:
     url: "https://doi.org/10.1038/tp.2016.101"
     display: "<i>Translational Psychiatry</i> 6, no. 6 (June 2016): e839–e839. "
-  highlight: 0
-  ml_ai: 0
-  precision_medicine: 0
-  genomics: 0
+  highlight: 1
+  ml_ai: 1
+  precision_medicine: 1
+  genomics: 1
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
@@ -511,29 +511,46 @@
 
 
 - title: "TopNEXt: Automatic DDA Exclusion Framework for Multi-Sample Mass Spectrometry Experiments"
-  image: XXX.png
-  description: "YYY"
+  image: TopNEXt_bioinformatics.png
+  description: "Presented a number of novel algorithms for mass spectrometry instruments that showed a significant improvement over previous ones."
   authors: "McBride, Ross, Joe Wandy, Stefan Weidt, Simon Rogers, Vinny Davies, Rónán Daly, and Kevin Bryson. "
   link:
     url: "https://doi.org/10.1093/bioinformatics/btad406"
     display: "<i>Bioinformatics</i> 39, no. 7 (1 July 2023): btad406. "
-  highlight: 0
+  highlight: 1
   ml_ai: 0
   precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
-  metabolomics: 0
+  metabolomics: 1
   sysbio_integration: 0
 
 
 - title: "The PSIPRED Protein Structure Prediction Server"
-  image: XXX.png
-  description: "YYY"
+  image: psipred_bioinformatics.png
+  description: "One of the most successful neural network architectures for predicting ab-initio secondary structure from protein sequences."
   authors: "McGuffin, Liam J., Kevin Bryson, and David T. Jones. "
   link:
     url: "https://doi.org/10.1093/bioinformatics/16.4.404"
     display: "<i>Bioinformatics</i> 16, no. 4 (1 April 2000): 404–5. "
+  highlight: 1
+  ml_ai: 1
+  precision_medicine: 0
+  genomics: 0
+  transcriptomics: 0
+  proteomics: 1
+  metabolomics: 0
+  sysbio_integration: 0
+
+
+- title: "What Are the Baselines for Protein Fold Recognition?"
+  image: XXX.png
+  description: "YYY"
+  authors: "McGuffin, Liam J., Kevin Bryson, and David T. Jones. "
+  link:
+    url: "https://doi.org/10.1093/bioinformatics/17.1.63"
+    display: "<i>Bioinformatics</i> 17, no. 1 (1 January 2001): 63–72. "
   highlight: 0
   ml_ai: 0
   precision_medicine: 0
@@ -579,16 +596,16 @@
 
 
 - title: "SwiftLink: Parallel MCMC Linkage Analysis Using Multicore CPU and GPU"
-  image: XXX.png
-  description: "YYY"
+  image: SwiftLink_bioinformatics.png
+  description: "Human pedigree analysis is often  used to identify regions of the genome that are invovled in rare diseases. The analysis of large human pedigrees is incredibly computational; particularly consanguineous ones which often results in rare recessive diseases showing themselves. In this paper we develop an parallel MCMC genetic linkage algorithm that uses multicore CPUs and GPUs, resulting in a magnitute improvement in speed over other popular methods at the time."
   authors: "Medlar, Alan, Dorota Głowacka, Horia Stanescu, Kevin Bryson, and Robert Kleta. "
   link:
     url: "https://doi.org/10.1093/bioinformatics/bts704"
     display: "<i>Bioinformatics</i> 29, no. 4 (15 February 2013): 413–19. "
   highlight: 0
-  ml_ai: 0
-  precision_medicine: 0
-  genomics: 0
+  ml_ai: 1
+  precision_medicine: 1
+  genomics: 1
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
@@ -596,8 +613,8 @@
 
 
 - title: "Multistate Gene Cluster Switches Determine the Adaptive Mitochondrial and Metabolic Landscape of Breast Cancer"
-  image: Multistate_gene_clusters_1500.png
-  description: "MCbiclust was used to detect different transcriptional states in breast cancer. This was then tested by metabolomics which confirmed different metabolic states."
+  image: mcbiclust_cancer_research.png
+  description: "Application of our MCbiclust software to breast cancer samples and experimental validation using metabolomics."
   authors: "Menegollo, Michela, Robert B. Bentham, Tiago Henriques, Seow Q. Ng, Ziyu Ren, Clarinde Esculier, Sia Agarwal, et al. "
   link:
     url: "https://doi.org/10.1158/0008-5472.CAN-23-3172"
@@ -630,32 +647,66 @@
 
 
 - title: "GENIUS: A New HLA Match Prediction Tool from Anthony Nolan"
-  image: XXX.png
-  description: "YYY"
+  image: HLA.svg
+  description: "A new probabilistic matching algorithm was developed which was used by the Anthony Nolan Trust for bone marrow transplant matching."
   authors: "Patel, Z, Patel, ZI, Robinson, J, Robertson, DP, Stein, JE, Chenery, P, Latham, K, Evseeva, I, Bryson, K, and Marsh, SGE. "
   link:
     url: "https://onlinelibrary.wiley.com/doi/10.1111/iji.12142"
     display: "Accessed 15 September 2024. "
-  highlight: 0
-  ml_ai: 0
-  precision_medicine: 0
-  genomics: 0
+  highlight: 1
+  ml_ai: 1
+  precision_medicine: 1
+  genomics: 1
   transcriptomics: 0
   proteomics: 0
   metabolomics: 0
   sysbio_integration: 0
 
 
+
+- title: "Host-Microbe-Drug-Nutrient Screen Identifies Bacterial Effectors of Metformin Therapy"
+  image: metformin_cell.png
+  description: "This study looked at how gut bacteria can alter the affect of drugs and nutrients on a host organism. It used the worm host C. elegans and the gut bacteria E. coli for high-throughout multi-omics screening. Data analysis of this four-way screen combined with metabolic modelling showed that microbes integrate cues from metformin and the diet through the phosphotransferase signaling pathway that converges on the transcriptional regulator Crp."
+  authors: "Pryor, Rosina, Povilas Norvaisas, Georgios Marinos, Lena Best, Louise B. Thingholm, Leonor M. Quintaneiro, Wouter De Haes, Daniela Esser, Silvio Waschina, and Celia Lujan. "
+  link:
+    url: "https://www.cell.com/cell/fulltext/S0092-8674(19)30891-8?fbclid=IwAR130nMgBwOSwPGyXC7aNpK7ikcauwfToccAgt1STj7eLDOPmJv-Ue3eqNU"
+    display: "<i>Cell</i> 178, no. 6 (2019): 1299–1312. "
+  highlight: 1
+  ml_ai: 0
+  precision_medicine: 1
+  genomics: 1
+  transcriptomics: 1
+  proteomics: 1
+  metabolomics: 1
+  sysbio_integration: 1
+
+
 - title: "A Large-Scale Evaluation of Computational Protein Function Prediction"
-  image: XXX.png
-  description: "YYY"
+  image: cafa_nature_methods.png
+  description: "A competition involving prediction Gene Ontology protein function prediction for protein sequences. The method of our research group at UCL was ranked first in the competition."
   authors: "Radivojac, Predrag, Wyatt T. Clark, Tal Ronnen Oron, Alexandra M. Schnoes, Tobias Wittkop, Artem Sokolov, Kiley Graim, et al. "
   link:
     url: "https://doi.org/10.1038/nmeth.2340"
     display: "<i>Nature Methods</i> 10, no. 3 (March 2013): 221–27. "
+  highlight: 1
+  ml_ai: 1
+  precision_medicine: 0
+  genomics: 0
+  transcriptomics: 0
+  proteomics: 1
+  metabolomics: 0
+  sysbio_integration: 0
+
+- title: "Host-Microbe Co-Metabolism Dictates Cancer Drug Efficacy in C. Elegans"
+  image: cancer_drug_efficacy_cell.png
+  description: "Fluoropyrimidines are the first-line treatment for colorectal cancer, but their efficacy is highly variable between patients. We queried whether gut microbes, a known source of inter-individual variability, impacted drug efficacy. Integrating multi-omics data for our host/microbe system, our findings highlight the potential therapeutic power of manipulating intestinal microbiota to ensure host metabolic health and treat disease."
+  authors: "Scott, Timothy A., Leonor M. Quintaneiro, Povilas Norvaisas, Prudence P. Lui, Matthew P. Wilson, Kit-Yi Leung, Lucia Herrera-Dominguez, Sonia Sudiwala, Alberto Pessia, and Peter T. Clayton. "
+  link:
+    url: "https://www.cell.com/fulltext/S0092-8674(17)30369-0"
+    display: "<i>Cell</i> 169, no. 3 (2017): 442–56. "
   highlight: 0
   ml_ai: 0
-  precision_medicine: 0
+  precision_medicine: 1
   genomics: 0
   transcriptomics: 0
   proteomics: 0
@@ -698,36 +749,36 @@
 
 
 - title: "Adversarial Generation of Gene Expression Data"
-  image: XXX.png
-  description: "YYY"
+  image: gene_expression_GAN_bioinformatics.png
+  description: "We introduce the first deep learning GAN method with word embeddings to simulate gene expression data for a wide range of biological systems from bacteria to different types of cancer tissue. We demonstrate that the method generates realistic cancer gene expression data."
   authors: "Viñas, Ramon, Helena Andrés-Terré, Pietro Liò, and Kevin Bryson. "
   link:
     url: "https://doi.org/10.1093/bioinformatics/btab035"
     display: "<i>Bioinformatics</i> 38, no. 3 (12 January 2022): 730–37. "
-  highlight: 0
-  ml_ai: 0
+  highlight: 1
+  ml_ai: 1
   precision_medicine: 0
   genomics: 0
-  transcriptomics: 0
+  transcriptomics: 1
   proteomics: 0
   metabolomics: 0
   sysbio_integration: 0
 
 
 - title: "Simulated-to-Real Benchmarking of Acquisition Methods in Untargeted Metabolomics"
-  image: XXX.png
-  description: "YYY"
+  image: ViMMS_frontiers.png
+  description: "A significant finding of this paper is the application of the ViMMS "digital twin" to do optimization of mass spectrometry instruments that would be expensive, difficult or impossible to do on real instruments."
   authors: "Wandy, Joe, Ross McBride, Simon Rogers, Nikolaos Terzis, Stefan Weidt, Justin J. J. van der Hooft, Kevin Bryson, Rónán Daly, and Vinny Davies. "
   link:
     url: "https://doi.org/10.3389/fmolb.2023.1130781"
     display: "<i>Frontiers in Molecular Biosciences</i> 10 (7 March 2023). "
-  highlight: 0
+  highlight: 1
   ml_ai: 0
   precision_medicine: 0
   genomics: 0
   transcriptomics: 0
   proteomics: 0
-  metabolomics: 0
+  metabolomics: 1
   sysbio_integration: 0
 
 
@@ -766,15 +817,15 @@
 
 
 - title: "A Continuously Benchmarked and Crowdsourced Challenge for Rapid Development and Evaluation of Models to Predict COVID-19 Diagnosis and Hospitalization"
-  image: XXX.png
-  description: "YYY"
+  image: COVID19_prediction_JAMA.png
+  description: "This paper looked at the effectiveness of AI models at diagnosing Covid-19 from Electronic Health Records of patients in real time at the height of the Covid pandemic. Our model was ranked 3rd out of 90 teams."
   authors: "Yan, Yao, Thomas Schaffter, Timothy Bergquist, Thomas Yu, Justin Prosser, Zafer Aydin, Amhar Jabeer, et al. "
   link:
     url: "https://doi.org/10.1001/jamanetworkopen.2021.24946"
     display: "<i>JAMA Network Open</i> 4, no. 10 (11 October 2021): e2124946. "
-  highlight: 0
-  ml_ai: 0
-  precision_medicine: 0
+  highlight: 1
+  ml_ai: 1
+  precision_medicine: 1
   genomics: 0
   transcriptomics: 0
   proteomics: 0
