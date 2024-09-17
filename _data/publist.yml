@@ -7,11 +7,11 @@
   link:
     url: "https://doi.org/10.1007/978-1-4939-9027-6_24"
     display: "In <i>Cancer Metabolism</i>, edited by Majda Haznadar, 1928:469–78. Methods in Molecular Biology. New York, NY: Springer New York, 2019. "
-  highlight: 0
+  highlight: 1
   ml_ai: 0
   cancer_precision_medicine: 0
   genomics: 0
-  transcriptomics: 0
+  transcriptomics: 1
   proteomics: 0
   metabolomics: 0
 
