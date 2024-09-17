@@ -28,16 +28,16 @@ Here are some themes and techniques that we currently work on: [Machine Learning
 {% if publi.transcriptomics == 1 %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="80%" style="float: left" />
+</div>  
+
+<div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p>{{ publi.description_long }}</p>
   </div>
-</div>  
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="80%" style="float: left" />
 </div>  
 
 
